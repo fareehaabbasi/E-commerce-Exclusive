@@ -130,10 +130,6 @@
     height: 284px;
 }
 
-.third {
-    /* background-color: aquamarine; */
-}
-
 .second-grid{
         background-color: black;
     }
@@ -210,6 +206,7 @@
     background-color: black;
     color: white;
     border-bottom: 1px solid rgb(44, 44, 44);
+    cursor: pointer;
 }
 .btn {
     border-radius: 0;
@@ -232,10 +229,6 @@
 
 .hover:hover {
     transform: scale(1.1);
-}
-
-.footer {
-    cursor: pointer;
 }
 
 .footer li:hover {
